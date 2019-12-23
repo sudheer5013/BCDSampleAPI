@@ -1,7 +1,6 @@
 {
-"AreaNames": [
+  "PrayGetCall":[
      { "name": "Route1", "id":101},{"name": "Route2", "id":102}
-   ],
-  "PrayGetCall":"Results Here"
+   ]
 
 }
