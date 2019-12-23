@@ -1,5 +1,5 @@
 {
- "PrayItems": [
+  "PrayItems": [
     {
       "prayDescrption": "I give myself and consecrate to the Sacred Heart of our Lord Jesus Christ, my person and my life, my actions, pains and sufferings, so that I may be unwilling to make use of any part of my being other than to honor",
       "prayName": "Edward L",
@@ -36,6 +36,37 @@
       "date": "15 Dec 2019 01:40 am",
       "PrayCount": "429"
     }
+  ],
+  "ServeGetCall": [
+    {
+      "title": "Volunteering",
+      "description": "love and glorify the Sacred Heart. This is my unchanging purpose, namely, to be all His, and to do all things for the love of Him",
+      "image": "image1"
+    },
+    {
+      "title": "Material Assistance",
+      "description": "the same time renouncing with all my heart whatever is displeasing to Him",
+      "image": "image2"
+    },
+    {
+      "title": "Pray",
+      "description": "I therefore take You, O Sacred heart, to be the only object of my love, the guardian of my life, my assurance of salvation, the remedy of my weakness and inconstancy, the atonement for all the faults of my life and my sure refuge at the hour of death",
+      "image": "image3"
+    },
+    {
+      "title": "Material Assistance",
+      "description": "the same time renouncing with all my heart whatever is displeasing to Him",
+      "image": "image4"
+    },
+    {
+      "title": "Pray",
+      "description": "I therefore take You, O Sacred heart, to be the only object of my love, the guardian of my life, my assurance of salvation, the remedy of my weakness and inconstancy, the atonement for all the faults of my life and my sure refuge at the hour of death",
+      "image": "image5"
+    },
+    {
+      "title": "Volunteering",
+      "description": "love and glorify the Sacred Heart. This is my unchanging purpose, namely, to be all His, and to do all things for the love of Him",
+      "image": "image6"
+    }
   ]
-
 }
