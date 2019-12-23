@@ -1,5 +1,5 @@
 {
-  "PrayItems": [
+  "PrayGetCall": [
     {
       "prayDescrption": "I give myself and consecrate to the Sacred Heart of our Lord Jesus Christ, my person and my life, my actions, pains and sufferings, so that I may be unwilling to make use of any part of my being other than to honor",
       "prayName": "Edward L",
@@ -37,7 +37,7 @@
       "PrayCount": "429"
     }
   ],
-  "ServeCall": [
+  "ServeGetCall": [
     {
       "title": "Volunteering",
       "description": "love and glorify the Sacred Heart. This is my unchanging purpose, namely, to be all His, and to do all things for the love of Him",
