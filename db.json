@@ -37,7 +37,7 @@
       "PrayCount": "429"
     }
   ],
-  "ServeGetCall": [
+  "ServeCall": [
     {
       "title": "Volunteering",
       "description": "love and glorify the Sacred Heart. This is my unchanging purpose, namely, to be all His, and to do all things for the love of Him",
@@ -67,6 +67,32 @@
       "title": "Volunteering",
       "description": "love and glorify the Sacred Heart. This is my unchanging purpose, namely, to be all His, and to do all things for the love of Him",
       "image": "image6"
+    }
+  ],
+  "AssistGetCall": [
+    {
+      "description": "love and glorify the Sacred Heart. This is my unchanging purpose, namely, to be all His, and to do all things for the love of Him",
+      "date": "02 Dec 2019, 4:27 PM"
+    },
+    {
+      "description": "the same time renouncing with all my heart whatever is displeasing to Him",
+      "date": "13 Dec 2019, 9:00 AM"
+    },
+    {
+      "description": "I therefore take You, O Sacred heart, to be the only object of my love, the guardian of my life, my assurance of salvation, the remedy of my weakness and inconstancy, the atonement for all the faults of my life and my sure refuge at the hour of death",
+      "date": "18 Dec 2019, 11:47 PM"
+    },
+    {
+      "description": "the same time renouncing with all my heart whatever is displeasing to Him",
+      "date": "20 Dec 2019, 02:57 PM"
+    },
+    {
+      "description": "I therefore take You, O Sacred heart, to be the only object of my love, the guardian of my life, my assurance of salvation, the remedy of my weakness and inconstancy, the atonement for all the faults of my life and my sure refuge at the hour of death",
+      "date": "21 Dec 2019, 08:27 AM"
+    },
+    {
+      "description": "love and glorify the Sacred Heart. This is my unchanging purpose, namely, to be all His, and to do all things for the love of Him",
+      "date": "23 Dec 2019, 12:27 AM"
     }
   ]
 }
